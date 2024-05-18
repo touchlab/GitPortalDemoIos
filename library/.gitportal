@@ -1,0 +1,7 @@
+[gitportal]
+	commit = 5f018b7da9ad4368298b78987c690cbd26d825cf
+	parent = 74c3e98ff02d5898e9d64e230be17f1efdad920b
+	remote = https://github.com/touchlab/GitPortalTemplateLibrary.git
+	pullTag = 0.1.0
+	cmdver = 0.5.18
+	method = merge
