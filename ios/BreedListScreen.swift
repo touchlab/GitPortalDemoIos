@@ -4,7 +4,7 @@
 
 import Combine
 import SwiftUI
-import library
+import allshared
 
 struct BreedListScreen: View {
     

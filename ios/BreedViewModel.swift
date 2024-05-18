@@ -4,7 +4,7 @@
 
 import Foundation
 import Combine
-import library
+import allshared
 
 @MainActor
 class BreedViewModel : ObservableObject {

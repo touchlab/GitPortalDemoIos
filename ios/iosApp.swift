@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-import library
+import allshared
 
 @main
 struct iosApp: App {
