@@ -28,3 +28,12 @@ xcuserdata/
 # End of https://www.gitignore.io/api/xcode
 
 .idea
+
+*.iml
+.gradle
+/local.properties
+build
+.build
+/captures
+.externalNativeBuild
+.cxx
